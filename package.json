@@ -1,0 +1,24 @@
+{
+  "name": "foodie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "docsify serve ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y1j2x34/foodie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y1j2x34/foodie/issues"
+  },
+  "homepage": "https://github.com/y1j2x34/foodie#readme",
+  "dependencies": {
+    "docsify": "^4.12.2",
+    "docsify-fulltextsearch": "^1.0.6"
+  }
+}
